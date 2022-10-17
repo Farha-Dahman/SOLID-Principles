@@ -12,4 +12,4 @@ I make for each process single class and interface for each one -> to make the c
 
 When I make this if someone need to make any change in the code -> make the change only in a specific class not in the Invoice class.
 
-![ClassDiagram](UML_D.drawio.png)
+![ClassDiagram](UML_S.drawio.png)
