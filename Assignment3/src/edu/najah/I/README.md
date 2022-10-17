@@ -11,5 +11,5 @@ we create 2 interfaces (Flyable,Swimming). In this way we didn't force the class
 Eagle, Penguin to implement methods that's not supported.
 
 
-![ClassDiagram](UML_L.drawio.png)
+![ClassDiagram](UML_I.drawio.png)
 
