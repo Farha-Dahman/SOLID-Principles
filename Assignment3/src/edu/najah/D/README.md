@@ -8,3 +8,5 @@ I'm creating the two interfaces (IKeyboard, IMonitor).
 That makes the WindowsMachine class depend on interface.
 
 Also, to make the code not open to modify, create two classes to change the status to Keyboard and Monitor. And create for each of class -> interface.
+
+![ClassDiagram](UML_D.drawio.png)
