@@ -9,3 +9,7 @@ The same thing happened in Penguin class, the fly method it's never used on it.
 Because of that we followed the principle of interface separation and reconfigure the original interface -> 
 we create 2 interfaces (Flyable,Swimming). In this way we didn't force the classes: 
 Eagle, Penguin to implement methods that's not supported.
+
+
+![ClassDiagram](UML_L.drawio.png)
+
