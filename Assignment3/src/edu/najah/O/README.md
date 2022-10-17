@@ -9,3 +9,6 @@ Because of that I create the OperationResult class to put all code that maybe ch
 The operation enum put it in constant package, if we need to add on them just modify in this class.
 
 Also, I put each operation in specific class, because if we need add other operation just add classes not modify our code. 
+
+![ClassDiagram](UML_O.drawio.png)
+
